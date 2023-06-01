@@ -13,7 +13,7 @@
 - 🌱 Secure a full time job or internship as a Software Engineer
 - 🌱 Internal move into Engineering department with current company
 
-# Languages and Tools:
+# Languages and Tools 📒:
 <img align="left" height="32" width="32" src="https://ico.now.sh/javascript/aaa"/> 
 <img align="left" height="32" width="32" src="https://ico.now.sh/html5/aaa"/> 
 <img align="left" height="32" width="32" src="https://ico.now.sh/css3/aaa"/> 
@@ -22,13 +22,13 @@
 <img align="left" height="32" width="32" src="https://ico.now.sh/mysql/aaa"/> 
 <br /><br />
 
-# Certifications
+# Certifications 💻:
 <!-- <img src="./src/images/UOCertification.png" width="300"> -->
 
 
-# Projects
-[<img src="./src/images/GlazedAndConfused.png" width="350">](https://glazed-and-confused-app.herokuapp.com/)
-[<img src="./src/images/MeetIOProject.png" width="350">](https://meetio.herokuapp.com/)
+<!-- # Projects: -->
+<!-- [<img src="./src/images/GlazedAndConfused.png" width="350">](https://glazed-and-confused-app.herokuapp.com/)
+[<img src="./src/images/MeetIOProject.png" width="350">](https://meetio.herokuapp.com/) -->
 
 # Stay connected with me 📫:
 <!-- [<img align="left" alt="website" src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white" />](https://morralytics-portfolio.herokuapp.com/) -->
